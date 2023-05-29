@@ -1,0 +1,49 @@
+
+/* footer */
+ p{
+   margin:4px; 
+   font-size: 90%; 
+   text-align: right
+   }
+   
+  footer{
+       text-align: left; 
+       padding: 3px; 
+       
+       }
+      
+/* layout */ 
+  /*   .body1{
+        float:left; 
+        width:1518px;
+      padding:10px;   
+      height: 502px;
+      background-color: pink;
+      
+   } */
+   
+.body1{
+        float:left; 
+        width:100%;
+      padding:10px;   
+      height: 502px;
+      background-color: pink;
+      
+   }
+   
+   .footer1 {
+     clear: both; 
+     color: white;
+     background-color: grey;
+   }
+   
+    
+   /* header */
+
+#logo{
+	border-radius:20px;
+	width: 90px;
+	height: 90px;
+		
+}
+

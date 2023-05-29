@@ -1,0 +1,4 @@
+com\core\config\ApplicationInitializer.class
+com\core\entity\LoginEntity.class
+com\core\controller\MainController.class
+com\core\config\ApplicationConfig.class
